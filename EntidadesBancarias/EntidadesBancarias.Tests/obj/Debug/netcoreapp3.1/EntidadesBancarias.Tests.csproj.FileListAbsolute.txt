@@ -1,0 +1,4 @@
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Tests\obj\Debug\netcoreapp3.1\EntidadesBancarias.Tests.csprojAssemblyReference.cache
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Tests\obj\Debug\netcoreapp3.1\EntidadesBancarias.Tests.AssemblyInfoInputs.cache
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Tests\obj\Debug\netcoreapp3.1\EntidadesBancarias.Tests.AssemblyInfo.cs
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Tests\obj\Debug\netcoreapp3.1\EntidadesBancarias.Tests.csproj.CoreCompileInputs.cache

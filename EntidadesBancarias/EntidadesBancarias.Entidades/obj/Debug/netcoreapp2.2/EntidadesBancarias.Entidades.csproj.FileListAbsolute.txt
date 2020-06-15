@@ -1,0 +1,9 @@
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\bin\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.deps.json
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\bin\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.dll
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\bin\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.pdb
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.csprojAssemblyReference.cache
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.AssemblyInfoInputs.cache
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.AssemblyInfo.cs
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.csproj.CoreCompileInputs.cache
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.dll
+D:\Programacion\AppEEBB\EntidadesBancarias\EntidadesBancarias.Entidades\obj\Debug\netcoreapp2.2\EntidadesBancarias.Entidades.pdb

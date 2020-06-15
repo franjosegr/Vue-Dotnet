@@ -1,0 +1,9 @@
+D:\Programacion\Necomplus\Necomplus.Entidades\bin\Debug\netcoreapp3.1\Necomplus.Entidades.deps.json
+D:\Programacion\Necomplus\Necomplus.Entidades\bin\Debug\netcoreapp3.1\Necomplus.Entidades.dll
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.csprojAssemblyReference.cache
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.AssemblyInfoInputs.cache
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.AssemblyInfo.cs
+D:\Programacion\Necomplus\Necomplus.Entidades\bin\Debug\netcoreapp3.1\Necomplus.Entidades.pdb
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.csproj.CoreCompileInputs.cache
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.dll
+D:\Programacion\Necomplus\Necomplus.Entidades\obj\Debug\netcoreapp3.1\Necomplus.Entidades.pdb
